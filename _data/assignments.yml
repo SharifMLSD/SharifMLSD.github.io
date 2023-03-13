@@ -1,12 +1,7 @@
-# - title: Vectors and Linear Equations
-#   subtitle: HW1
-#   paragraph: >2
-#     Theoretical Part (140 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59<br>
-#     Practical Part (30 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59
-#   assets:
-#     - file: Question Set
-#       link: assets/hw/LA_Fall22_HW1.pdf
-#     - file: Test Cases
-#       link: assets/hw/LA_Fall22_HW1_testcases.zip
-#     - file: Solution
-#       link: assets/hw/LA_Fall22_HW1_Solution.pdf
+- title: Data
+  subtitle: HW1
+  paragraph: >1
+    Submission Deadline: 1402/01/20 23:59:59 with possibility of late submission until 1402/01/25 23:59:59
+  assets:
+    - file: Question Set
+      link: assets/hw/MLSD_HW1.pdf
