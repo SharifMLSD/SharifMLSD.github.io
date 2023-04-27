@@ -18,7 +18,7 @@
   assets:
     - file: Google Slides
       link: https://docs.google.com/presentation/d/1qMdJFrqOepm5F3xAJDTDYeZTwjCMdUJqvDjIG-7GV24/edit?usp=sharing
-- title: Data Engineering Fundamentals
+- title: Data Engineering Fundamentals (Cont.)
   subtitle: Lecture 5
   assets:
     - file: Google Slides
@@ -28,7 +28,7 @@
   assets:
     - file: Google Slides
       link: https://docs.google.com/presentation/d/19uOR-dh16mK_gm8dXK-Qkn6l29PVpN5YbpvotDeroRc/edit?usp=sharing
-- title: Data Preparation
+- title: Data Preparation (Cont.)
   subtitle: Lecture 7
   assets:
     - file: Google Slides
@@ -38,7 +38,7 @@
   assets:
     - file: Google Slides
       link: https://docs.google.com/presentation/d/1h0Wdl6PZNewcBwlAbTafgHszihcFYfp9-3zfcYVHqbE/edit?usp=sharing
-- title: Feature Engineering
+- title: Feature Engineering (Cont.)
   subtitle: Lecture 9
   assets:
     - file: Google Slides
@@ -48,7 +48,7 @@
   assets:
     - file: Google Slides
       link: https://docs.google.com/presentation/d/1PmnKkD0LZQSd5W9w0V8RHBWuJlFxEcmdPECl4bvV1hQ/edit?usp=sharing
-- title: Model Development and Training
+- title: Model Development and Training (Cont.)
   subtitle: Lecture 11
   assets:
     - file: Google Slides
