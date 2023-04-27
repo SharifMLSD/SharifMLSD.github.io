@@ -1,7 +1,14 @@
 - title: Data
   subtitle: HW1
   paragraph: >1
-    Submission Deadline: 1402/01/20 23:59:59 with possibility of late submission until 1402/01/25 23:59:59
+    Submission Deadline: 1402/01/20 23:59:59 with possibility of late submission
   assets:
     - file: Question Set
       link: assets/MLSD_HW1.pdf
+- title: Models
+  subtitle: HW2
+  paragraph: >1
+    Submission Deadline: 1402/02/11 23:59:59 with possibility of late submission
+  assets:
+    - file: Question Set
+      link: assets/MLSD_HW2.pdf
