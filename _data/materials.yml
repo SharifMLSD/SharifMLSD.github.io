@@ -1,65 +1,80 @@
 - title: Understanding ML Systems
   subtitle: Lecture 1
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1uhZc4LbmwqmaK5zonzIwMhmbXeA4y_0PwyEV5eapqCw/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_01_lec_01.pdf
 - title: Scoping the ML System Design Problem
   subtitle: Lecture 2
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1qgyQ-daXdwTA80NdIXarKDKwJ11oTs52Od_7E7TN_8k/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_01_lec_02.pdf
 - title: ML System Development Life Cycle
   subtitle: Lecture 3
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1XO7_9P-qtXonNNosGvsUkfH0eIT4Cr9SNq0bPhONpo0/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_01_lec_03.pdf
 - title: Data Engineering Fundamentals
   subtitle: Lecture 4
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1qMdJFrqOepm5F3xAJDTDYeZTwjCMdUJqvDjIG-7GV24/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_04.pdf
 - title: Data Engineering Fundamentals (Cont.)
   subtitle: Lecture 5
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1y-UbahZfJM7h81Z6xLkfJsdgSUXWv9tEW760JnHhI6U/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_05.pdf
 - title: Data Preparation
   subtitle: Lecture 6
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/19uOR-dh16mK_gm8dXK-Qkn6l29PVpN5YbpvotDeroRc/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_06.pdf
 - title: Data Preparation (Cont.)
   subtitle: Lecture 7
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/12Lua1m_bCjFTKuU_dSPP9mSWCzJcFvS2tA64uzjfVgk/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_07.pdf
 - title: Feature Engineering
   subtitle: Lecture 8
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1h0Wdl6PZNewcBwlAbTafgHszihcFYfp9-3zfcYVHqbE/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_08.pdf
 - title: Feature Engineering (Cont.)
   subtitle: Lecture 9
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1Rx3RIHm6ykaeNnDOphbbaroboJv_PD_8V_R-lQ8wyOY/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_02_lec_09.pdf
 - title: Model Development and Training
   subtitle: Lecture 10
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1PmnKkD0LZQSd5W9w0V8RHBWuJlFxEcmdPECl4bvV1hQ/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_10.pdf
 - title: Model Development and Training (Cont.)
   subtitle: Lecture 11
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1_wWqE1myPvw8id07XnQ-h94ERd1ero3X4wt3hr_XvwA/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_11.pdf
 - title: Model Performance Analysis
   subtitle: Lecture 12
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1MWQpgNt5UocakPf4fXkVBuSVOQamlXAgACLHf9xoaPA/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_12.pdf
 - title: Hyperparameter tuning and AutoML
   subtitle: Lecture 13
   assets:
-    - file: Google Slides
-      link: https://docs.google.com/presentation/d/1_mFPAbCVUlGTlJI74mzelGwzuf5uggJZTw3PzCfRE2M/edit?usp=sharing
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_13.pdf
+- title: Model Resource Management
+  subtitle: Lecture 14
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_14.pdf
+- title: High-performance Modeling
+  subtitle: Lecture 15
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_15.pdf
+- title: Interpretability and Explainability
+  subtitle: Lecture 16
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_03_lec_16.pdf
