@@ -78,3 +78,13 @@
   assets:
     - file: Slides
       link: assets/MLSD_2023_chap_03_lec_16.pdf
+- title: Model Serving
+  subtitle: Lecture 17
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_17.pdf
+- title: Model Serving (Cont.)
+  subtitle: Lecture 18
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_18.pdf
