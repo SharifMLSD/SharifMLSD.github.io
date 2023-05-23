@@ -88,3 +88,13 @@
   assets:
     - file: Slides
       link: assets/MLSD_2023_chap_04_lec_18.pdf
+- title: Model Serving (Cont.)
+  subtitle: Lecture 19
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_19.pdf
+- title: Deployment and Monitoring
+  subtitle: Lecture 20
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_20.pdf
