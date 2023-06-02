@@ -98,3 +98,18 @@
   assets:
     - file: Slides
       link: assets/MLSD_2023_chap_04_lec_20.pdf
+- title: Model Monitoring
+  subtitle: Lecture 21
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_21.pdf
+- title: Model Maintenance
+  subtitle: Lecture 22
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_22.pdf
+- title: Model Online Evaluation
+  subtitle: Lecture 23
+  assets:
+    - file: Slides
+      link: assets/MLSD_2023_chap_04_lec_23.pdf
